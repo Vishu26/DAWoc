@@ -20,18 +20,25 @@ This project aims to create language to language translation standalone applicat
 ```
   
 ## Machine Learning Basics 
-  - https://machinelearningmastery.com/basic-concepts-in-machine-learning/
-  - https://www.analyticsvidhya.com/blog/2015/06/machine-learning-basics
-  - https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/
-                            
+```diff
++ https://machinelearningmastery.com/basic-concepts-in-machine-learning/
++ https://machinelearningmastery.com/basic-concepts-in-machine-learning/
++ https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/
+```                         
 ## Neural Networks 
-  - https://www.youtube.com/watch?v=ov_RkIJptwE&list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D&index=7
-  - https://www.youtube.com/watch?v=FTr3n7uBIuE&list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D&index=8
-  - https://www.youtube.com/watch?v=BwmddtPFWtA&index=10&list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D
+```diff
++ https://www.youtube.com/watch?v=ov_RkIJptwE&list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D&index=7
++ https://www.youtube.com/watch?v=FTr3n7uBIuE&list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D&index=8
++ https://www.youtube.com/watch?v=BwmddtPFWtA&index=10&list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D
+```
                     
 ## Tensorflow Tuts 
-  - https://www.youtube.com/watch?v=2FmcHiLCwTU&list=PL2-dafEMk2A7EEME489DsI468AB0wQsMV
-  - https://www.analyticsvidhya.com/blog/2016/10/an-introduction-to-implementing-neural-networks-using-tensorflow/
+```diff
++ https://www.youtube.com/watch?v=2FmcHiLCwTU&list=PL2-dafEMk2A7EEME489DsI468AB0wQsMV
++ https://www.analyticsvidhya.com/blog/2016/10/an-introduction-to-implementing-neural-networks-using-tensorflow/
+```
       
 ## LSTM cell 
-  - https://www.youtube.com/watch?v=y7qrilE-Zlc
+```diff
++ https://www.youtube.com/watch?v=y7qrilE-Zlc
+```
