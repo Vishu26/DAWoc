@@ -41,5 +41,11 @@ This project aims to create language to language translation standalone applicat
 ## LSTM cell 
 ```diff
 + https://www.youtube.com/watch?v=y7qrilE-Zlc
-+ [Sites Using React](https://github.com/facebook/react/wiki/Sites-Using-React)
 ```
+## Machine Translation
+```diff
+- https://www.youtube.com/watch?v=nRBnh4qbPHI
+- https://www.tensorflow.org/tutorials/seq2seq
+- https://machinelearningmastery.com/develop-neural-machine-translation-system-keras/
+```
+
