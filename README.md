@@ -14,9 +14,10 @@ This project aims to create language to language translation standalone applicat
   - Basic Building Block - LSTM(Long Short Term Memory) cell or GRU(Gated Recurrent Unit) cell
 
 # Tutorials and Readings
-
-## Basic Python 
-  - https://www.youtube.com/watch?v=kJv1QDfp1PM&list=PL1A2CSdiySGJd0LJRRSwQZbPZaDP0q67j
+## Basic Python
+```diff
+https://www.youtube.com/watch?v=kJv1QDfp1PM&list=PL1A2CSdiySGJd0LJRRSwQZbPZaDP0q67j
+```
   
 ## Machine Learning Basics 
   - https://machinelearningmastery.com/basic-concepts-in-machine-learning/
