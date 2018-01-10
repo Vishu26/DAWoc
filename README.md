@@ -16,7 +16,7 @@ This project aims to create language to language translation standalone applicat
 # Tutorials and Readings
 ## Basic Python
 ```diff
-https://www.youtube.com/watch?v=kJv1QDfp1PM&list=PL1A2CSdiySGJd0LJRRSwQZbPZaDP0q67j
+  + https://www.youtube.com/watch?v=kJv1QDfp1PM&list=PL1A2CSdiySGJd0LJRRSwQZbPZaDP0q67j
 ```
   
 ## Machine Learning Basics 
