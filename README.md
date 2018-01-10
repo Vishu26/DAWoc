@@ -41,4 +41,5 @@ This project aims to create language to language translation standalone applicat
 ## LSTM cell 
 ```diff
 + https://www.youtube.com/watch?v=y7qrilE-Zlc
++ [Sites Using React](https://github.com/facebook/react/wiki/Sites-Using-React)
 ```
