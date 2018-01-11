@@ -27,6 +27,7 @@ This project aims to create language to language translation standalone applicat
 ## Neural Networks 
 ```diff
 + https://youtu.be/aircAruvnKk
++ https://www.youtube.com/watch?v=p69khggr1Jo
 + https://www.youtube.com/watch?v=ov_RkIJptwE&list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D&index=7
 + https://www.youtube.com/watch?v=FTr3n7uBIuE&list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D&index=8
 + https://www.youtube.com/watch?v=BwmddtPFWtA&index=10&list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D
