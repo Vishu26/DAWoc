@@ -27,23 +27,6 @@ for word in en:
 for word in fr:
     for char in word:
         fr_char.add(char)
-'''en = []
-fr = []
-en_char = set()
-fr_char = set()
-
-data = open(path, 'rb').read().decode('ISO-8859-1').split('\n')
-
-for line in data[:samples]:
-    en_text, fr_text = line.split('\t')
-    fr_text = '\t' + fr_text + '\n'
-    en.append(en_text)
-    fr.append(fr_text)
-    for char in en_text:
-        en_char.add(char)
-    for char in fr_text:
-        fr_char.add(char)'''
-
 
 en_char = sorted(list(en_char))
 fr_char = sorted(list(fr_char))
