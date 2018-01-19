@@ -2,8 +2,7 @@ from PyQt5 import QtCore, QtGui, QtWidgets
 from PyQt5.QtCore import *
 from PyQt5.QtGui import *
 from PyQt5.QtWidgets import *
-from gtts import gTTS
-from googletrans import Translator
+from trans import Translator
 
 class Ui_chatBot(object):
     def setupUi(self, chatBot):
